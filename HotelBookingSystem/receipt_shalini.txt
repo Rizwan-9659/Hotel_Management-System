@@ -1,0 +1,5 @@
+----- Booking Receipt -----
+User: shalini
+Room: Room 201 [Double] - ₹2500.0 - Booked
+Booking Date: 2025-09-25 10:21:17
+---------------------------

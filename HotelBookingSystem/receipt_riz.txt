@@ -1,0 +1,5 @@
+----- Booking Receipt -----
+User: riz
+Room: Room 101 [Single] - ₹1500.0 - Booked
+Booking Date: 2025-09-24 20:32:29
+---------------------------
